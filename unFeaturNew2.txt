@@ -1,1 +1,1 @@
-creando un feature que sera publicado antes de terminarlo.
+feature 2 terminado.
